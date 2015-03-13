@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewDemo</string>
+    <string name="action_settings">Setting</string>
+    <string name="main_title">European Union Members</string>
+    <string name="tvlabel_capital">Capital</string>
+    <string name="tvlabel_population">Population</string>
+    <string name="tvlabel_area">Land Area (Sq. Km)</string>
+    <string name="tvlabel_gdp">GDP per Capita ($)</string>
+    <string name="tvlabel_filler">Text</string>
+
+</resources>
